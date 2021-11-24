@@ -1,16 +1,12 @@
-### Hi there 👋
+- 筑波大学情報学群情報メディア創成学類 B1（2021/04〜）
+- Mantra株式会社 インターン（2021/06-12）
+- IPA未踏IT人材発掘・育成事業採択・スーパークリエータ認定（2021/05）
+-- 採択テーマ：｢強力なグラフィック機能を備えた日本語組版処理システムの開発」Twight という組版エンジンをつくりました。
 
-<!--
-**inaniwaudon/inaniwaudon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## すきなこと・もの
+- 組版・フォント・タイポグラフィ
+  - 写研書体などがすきです！！！
+- Webフロントエンド
+- 百合漫画
+- らーめん
+- かりんとう
