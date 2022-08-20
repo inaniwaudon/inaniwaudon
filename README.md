@@ -17,8 +17,10 @@
 - かりんとう
 - やさしいインターネット、ふわふわインターネット
 
-## SNS
+## 外部リンク
 - Twitter: [@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
 - Twitter2: [いなにわうどん（@kyoto_mast21）](https://twitter.com/kyoto_mast21)
-- Qiita: [inaniwaudon - Qiita](https://qiita.com/inaniwaudon)
+- 個人サイト： [いなにわうどん.みんな.いなにわうどん.みんな](https://いなにわうどん.みんな.いなにわうどん.みんな)
+- はてなブログ： [いなにわうどん](https://soudakyoto-ikou.hatenadiary.jp/)
 - Zenn: [いなにわうどんさんの記事一覧 | Zenn](https://zenn.dev/inaniwaudon)
+- Qiita: [inaniwaudon - Qiita](https://qiita.com/inaniwaudon)
