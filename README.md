@@ -20,6 +20,7 @@
 
 ## 外部リンク
 - 個人サイト：[いなにわうどん.みんな](https://いなにわうどん.みんな)
+- Keybase: [inaniwaudon](https://keybase.io/inaniwaudon)
 - Twitter：[@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
 - Twitter2：[いなにわうどん（@kyoto_mast21）](https://twitter.com/kyoto_mast21)
 - Misskey：[いなにわうどん (@inaniwaudon) | Misskey.io](https://misskey.io/@inaniwaudon)
