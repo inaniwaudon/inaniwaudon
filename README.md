@@ -21,7 +21,7 @@
 ## 外部リンク
 - 個人サイト：[いなにわうどん.みんな](https://いなにわうどん.みんな)
 - Keybase: [inaniwaudon](https://keybase.io/inaniwaudon)
-- Twitter：[いなにわうどん（kyoto_inaniwa）](https://twitter.com/kyoto_inaniwa)
+- Twitter：[いなにわうどん（@kyoto_inaniwa）](https://twitter.com/kyoto_inaniwa)
 - Twitter2：[@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
 - Misskey：[いなにわうどん (@inaniwaudon) | Misskey.io](https://misskey.io/@inaniwaudon)
 - はてなブログ：[いなにわうどん](https://soudakyoto-ikou.hatenadiary.jp/)
