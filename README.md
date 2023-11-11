@@ -22,11 +22,12 @@
 - やさしいインターネット、ふわふわインターネット
 
 ## 外部リンク
-- 個人サイト：[いなにわうどん.みんな](https://いなにわうどん.みんな)
+- 個人サイト: [いなにわうどん.みんな](https://いなにわうどん.みんな)
 - Keybase: [inaniwaudon](https://keybase.io/inaniwaudon)
-- Twitter：[いなにわうどん（@kyoto_inaniwa）](https://twitter.com/kyoto_inaniwa)
-- Twitter2：[@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
-- Misskey：[いなにわうどん (@inaniwaudon) | Misskey.io](https://misskey.io/@inaniwaudon)
-- はてなブログ：[いなにわうどん](https://soudakyoto-ikou.hatenadiary.jp/)
-- Zenn：[いなにわうどんさんの記事一覧 | Zenn](https://zenn.dev/inaniwaudon)
-- Qiita：[inaniwaudon - Qiita](https://qiita.com/inaniwaudon)
+- Twitter: [いなにわうどん（@kyoto_inaniwa）](https://twitter.com/kyoto_inaniwa)
+- Twitter2: [@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
+- Misskey: [いなにわうどん（@inaniwaudon@misskey.io）](https://misskey.io/@inaniwaudon)
+- はてなブログ: [いなにわうどん](https://soudakyoto-ikou.hatenadiary.jp/)
+- Zenn: [いなにわうどん（inaniwaudon）](https://zenn.dev/inaniwaudon)
+- note: [いなにわうどん（soudakyoto_ikou）](https://note.com/soudakyoto_ikou)
+- Email: me(at)yokohama.dev
