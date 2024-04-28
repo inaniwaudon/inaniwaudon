@@ -1,4 +1,4 @@
-- 筑波大学情報学群情報メディア創成学類 B3（2021/04–）
+- 筑波大学情報学群情報メディア創成学類 B4（2021/04–）
 - IPA 未踏 IT 人材発掘・育成事業採択・スーパークリエータ認定（2020/06, 2021/05）
   - 採択テーマ：｢[強力なグラフィック機能を備えた日本語組版処理システムの開発](https://note.com/ipsj/n/n6f6961254850)」
   - Twight（[@twight-project](https://github.com/twight-project)）という組版システムをつくっています。
@@ -23,7 +23,6 @@
 
 ## 外部リンク
 - 個人サイト: [いなにわうどん.みんな](https://いなにわうどん.みんな)
-- Keybase: [inaniwaudon](https://keybase.io/inaniwaudon)
 - Twitter: [いなにわうどん（@kyoto_inaniwa）](https://twitter.com/kyoto_inaniwa)
 - Twitter2: [@kyoto_ysfh](https://twitter.com/kyoto_ysfh)
 - Misskey: [いなにわうどん（@inaniwaudon@misskey.io）](https://misskey.io/@inaniwaudon)
