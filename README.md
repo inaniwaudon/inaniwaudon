@@ -30,5 +30,5 @@
 - note: [いなにわうどん（soudakyoto_ikou）](https://note.com/soudakyoto_ikou)
 - Email: me(at)yokohama.dev
 - ポートフォリオ
-  - https://portfolio-gjf.pages.dev/
+  - https://portfolio.いなにわうどん.みんな
   - https://www.iplab.cs.tsukuba.ac.jp/~wada/
