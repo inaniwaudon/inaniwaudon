@@ -2,10 +2,10 @@
   - 大学院システム情報工学研究群 情報理工学位プログラム（博士前期課程、2025/4–現在）
   - 情報学群 情報メディア創成学類（2021/4–2025/3）
   - [インタラクティブプログラミング研究室](https://www.iplab.cs.tsukuba.ac.jp/)（IPLAB、2024/4–現在、[個人ページ](https://www.iplab.cs.tsukuba.ac.jp/~wada/)）
-- 2025 年度下期 IPA 未踏アドバンスト事業採択（2026/1）
+- 2025 年度下期 IPA 未踏アドバンスト事業採択（2026/1–9）
   - 採択テーマ：「[ライブラリとSaaSを通じて提供されるヘッドレス組版エンジンの開発](https://www.ipa.go.jp/jinzai/mitou/advanced/2025second/gaiyou-fj-1.html)」
   - minitype という組版エンジンを開発中です（[関連サイト](http://typeset.jp/)、[GitHub](https://github.com/minitype-project/)）
-- 2020 年度 IPA 未踏 IT 人材発掘・育成事業採択、スーパークリエータ認定（2020/6，2021/5）
+- 2020 年度 IPA 未踏 IT 人材発掘・育成事業採択、スーパークリエータ認定（2020/6–2021/3、2021/5）
   - 採択テーマ：「[強力なグラフィック機能を備えた日本語組版処理システムの開発](https://www.ipa.go.jp/jinzai/mitou/it/2020/gaiyou_sd-2.html)」
   - Twight という組版処理システムを開発しました（[関連記事 1](https://logmi.jp/main/technology/325476)、[関連記事 2](https://note.com/ipsj/n/n6f6961254850)）
 - 資格
