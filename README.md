@@ -19,7 +19,7 @@
 - 組版、フォント、タイポグラフィ
   - 写研書体など。最近は筑紫 B 明朝と文游明朝体に期待をしています。
 - ヒューマンコンピュータインタラクション（HCI）
-  - 論文：[SUI '25](https://doi.org/10.1145/3694907.3765927)、[CHI EA '26](https://doi.org/10.1145/3772363.3798511)、[インタラクション2023](https://www.iplab.cs.tsukuba.ac.jp/paper/poster/wada_interaction2023.pdf)、[WISS 2024](https://www.wiss.org/WISS2024Proceedings/data/paper/10.pdf)（登壇）、[WISS 2025](https://www.wiss.org/WISS2025Proceedings/data/demo/2-C24.pdf)（デモ）
+  - 論文：[SUI '25](https://doi.org/10.1145/3694907.3765927)、[CHI EA '26](https://doi.org/10.1145/3772363.3798511)、[インタラクション 2023](https://www.iplab.cs.tsukuba.ac.jp/paper/poster/wada_interaction2023.pdf)（デモ）、[WISS 2024](https://www.wiss.org/WISS2024Proceedings/data/paper/10.pdf)（登壇）、[WISS 2025](https://www.wiss.org/WISS2025Proceedings/data/demo/2-C24.pdf)（デモ）
 - Web フロントエンド
 - 漫画やアニメ
   - まぞく、クズの本懐、ぼざろはいいぞ
